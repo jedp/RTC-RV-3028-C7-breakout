@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "RTC_Library")(type "KiCad")(uri "${KIPRJMOD}/RTC_Library.kicad_sym")(options "")(descr ""))
+)
