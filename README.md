@@ -1,5 +1,11 @@
 # RTC RV-3028-C7 Breakout Board
 
+If you're using an Arduino, this goes nicely with Constantin Koch's
+[RV-3038-C7-Arduino_Library](https://github.com/constiko/RV-3028_C7-Arduino_Library/),
+which you can download direcly from the Arduino Library Manager.
+
+Dimensions: 18.8mm x 22.6mm.
+
 ![PCB image](RTC-breakout.png)
 
 ## BOM
