@@ -13,7 +13,7 @@ Dimensions: 18.8mm x 22.6mm.
 - U1: RV-3028-C7 RTC
 - C1: 0.1µ 0603
 - C2: 0.1µ 0603
-- R1: 10k 0603
+- R1: 10k 0603 (*Do Not Populate*; see datasheet for details.)
 - R2: 10k 0603
 - R3: 1k 0603
 - R4: 10k 0603
